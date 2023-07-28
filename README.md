@@ -44,5 +44,7 @@ This circuit can serve as a foundation for more complex digital systems and arit
 
 To use the circuit, circom version 2.0.0 must be installed on the system, and the circuit needs to be compiled to generate the corresponding .json and .wasm files. With the circuit compiled, users can set input values for signals A and B, perform calculations, and retrieve the output value Q.
 
+### License
+
 The project is provided under the permissive MIT License, granting users the freedom to use, modify, and distribute the circuit as they see fit.
 
